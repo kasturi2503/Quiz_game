@@ -1,1 +1,1 @@
-# Quiz_game
+hi! this is my first python based quiz game. hope you enjoy playing it :)
